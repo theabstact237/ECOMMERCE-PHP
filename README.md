@@ -69,10 +69,7 @@ along with specific tasks completed for each version released to date.
 
 ## Authors
 
-- Justin Hartman - [@justinhartman][author-1]
-
-Also see the list of [contributors][contribs] who have participated in this
-project.
+Karl William Siaka Tayou
 
 ## License
 
